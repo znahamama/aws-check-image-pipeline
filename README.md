@@ -190,8 +190,6 @@ Each processed image record includes:
 
 - Soft-delete support
 
-- Infrastructure as Code (Terraform or CloudFormation)
-
 ---
 
 ## Why This Project
